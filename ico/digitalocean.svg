@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>digitalocean</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-400.000000, -1808.000000)">
+            <g id="Supp-Tech" transform="translate(363.000000, 994.000000)">
+                <g id="Platforms" transform="translate(0.000000, 566.000000)">
+                    <g id="platforms-ico" transform="translate(0.000000, 59.000000)">
+                        <g id="Group-18" transform="translate(19.500000, 189.000000)">
+                            <g id="digitalocean" transform="translate(17.500000, 0.000000)">
+                                <path d="M49.83,99.702926 L49.83,80.380926 C70.282,80.380926 86.158,60.098926 78.304,38.572926 C75.3843251,30.568173 69.078414,24.26153 61.074,21.340926 C39.548,13.544926 19.266,29.362926 19.266,49.814926 L-7.10542736e-15,49.814926 C-7.10542736e-15,17.218926 31.526,-8.20507402 65.706,2.47092598 C80.622,7.16292598 92.542,19.024926 97.176,33.942926 C107.854,68.176926 82.486,99.702926 49.83,99.702926" id="Path" fill="#000D1F"></path>
+                                <path d="M30.678,80.436926 L49.886,80.436926 L49.886,61.228926 L30.68,61.228926 L30.678,80.436926 Z M15.876,95.238926 L30.676,95.238926 L30.676,80.438926 L15.876,80.438926 L15.876,95.238926 Z M3.502,80.438926 L15.876,80.438926 L15.876,68.062926 L3.502,68.062926 L3.502,80.438926 Z" id="Shape" fill="#FF0055"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

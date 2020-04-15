@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="30px" viewBox="0 0 35 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>television</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1003.000000, -388.000000)" fill="#F9F8FF" fill-rule="nonzero">
+            <g id="Main-screen">
+                <g id="UTP" transform="translate(150.000000, 200.000000)">
+                    <g id="Group-10" transform="translate(760.000000, 79.000000)">
+                        <g id="Group-9" transform="translate(33.000000, 48.000000)">
+                            <g id="Group-6" transform="translate(60.000000, 61.000000)">
+                                <g id="television" transform="translate(0.000000, 0.000000)">
+                                    <path d="M10.4971154,29.7115385 L24.1176923,29.7115385 L17.3076923,18.8151923 L10.4971154,29.7115385 Z M12.5798077,28.5576923 L17.3076923,20.9925 L22.0355769,28.5576923 L12.5798077,28.5576923 Z" id="Shape"></path>
+                                    <path d="M0,0.288461538 L0,23.3653846 L12.6923077,23.3653846 C13.0113462,23.3653846 13.2692308,23.1075 13.2692308,22.7884615 C13.2692308,22.4694231 13.0113462,22.2115385 12.6923077,22.2115385 L1.15384615,22.2115385 L1.15384615,1.44230769 L33.4615385,1.44230769 L33.4615385,22.2115385 L21.9230769,22.2115385 C21.6040385,22.2115385 21.3461538,22.4694231 21.3461538,22.7884615 C21.3461538,23.1075 21.6040385,23.3653846 21.9230769,23.3653846 L34.6153846,23.3653846 L34.6153846,0.288461538 L0,0.288461538 Z" id="Path"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
