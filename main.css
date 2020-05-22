@@ -230,6 +230,7 @@ h2 {
   background-position: 0% 0%;
   background-size: 110% auto;
   background-repeat: no-repeat;
+  transition: background-position 400ms ease-out;
   width: 100%; }
   @media (max-width: 1140px) {
     .main__screen {
